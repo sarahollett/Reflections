@@ -2,7 +2,7 @@
 
 First need to download libZotero, a Python module that allows you to interact with Zotero API, with`pip install libZotero`
 
-From here, we can follow each step, but when we reached `for item in items: print item.bibContent` to get full bibliographic informatin we received an error that read:
+From here, we can follow each step, but when we reached `for item in items: print item.bibContent` to get full bibliographic information we received an error that read:
 
 ![unicode error](http://s29.postimg.org/cj0pc6hyf/unicodeerror.jpg)
 
