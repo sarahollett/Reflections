@@ -6,7 +6,7 @@ From there I began using the Command Prompt for Windows which worked fairly well
 
 During the second lesson on API after I had created the metadata for my item, I received an error code `403 Write access denied`. This was extremely frustrating because I was excited to be able to try out all of the different types of items I could create with Zotero. At that time Shawn recommended to me that install GitBash and try to create a new Zotero item there. I was still unconvinced but installed it but only half-heartily retried the lesson using GitBash where I still did not receive the results the tutorial was looking for.
 
-! [create new Zotero item] https://camo.githubusercontent.com/9206a3ed97662c81ac3ea4baeee47336995a9503/687474703a2f2f7331332e706f7374696d672e6f72672f753475677864356e622f6372656174696e676e65776974656d2e706e67
+! [create new Zotero item] 
 
 The introduction to Bash Command Line tutorial was doubly beneficial for me because it forced me to familiarize myself with GitBash. With a new understanding of GitBash, it also motivated me to go back and resolve my earlier issues. I realized quickly that commands I was using in the Command Prompt were going to be different in GitBash. Some searching online at Stackoverflow (http://stackoverflow.com/questions/32454589/git-2-5-1s-bash-console-doesnt-open-python-interpreter) quickly revealed that typing `python` into GitBash would not bring up the interpretor, but that `python -i` was required instead.
 
