@@ -1,3 +1,3 @@
 # Reflections
 
-A colletion of Reflections for HIS 5702w
+A collection of Reflections for HIS 5702w
